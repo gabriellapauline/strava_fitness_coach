@@ -1,1 +1,1 @@
-# strave_fitness_coach
+# strava_fitness_coach
