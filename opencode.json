@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "strava": {
+      "type": "local",
+      "command": ["strava-mcp-server"],
+      "enabled": true
+    }
+  }
+}
